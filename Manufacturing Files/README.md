@@ -1,5 +1,8 @@
 ## Manufacturing Files List
 
+>[!TIP]
+>All *.f3d* files have parametric screw holes to accommodate different sizes
+
 File Name | Type | Description | Manufacturing
 ----------|-------|------------|---------
 MC ES Coupler TII | f3d | Motor-Auger coupler | CNC Milling
