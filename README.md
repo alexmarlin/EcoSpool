@@ -1,12 +1,29 @@
 # ARHS EcoSpool
 
+## Reference Material
+File Name | Type | 
+----------|-------|
+Heat Modulation System Diagram | PDF |
+
 ## Files for Developing a 3d Printer Waste Recycler
 
 File Name | Type | Description | Manufacturing
 ----------|-------|------------|---------
-Heat Modulation System Diagram | PDF | <ins>REFERENCE</ins> | N/A
 MC ES Coupler TII | f3d | Motor-Auger coupler | CNC Milling
 Box Gen. 2 | SVG | Electronics Box | Laser Cut
 EcoSpool Bracket | STL | For motor mounting | 3d Print
 Motor Holder | STL | Secondary brace for motor mounting | 3d Print
 Motor Mount Screws | STL | Mount motor to board | 3d Print/Lathe
+
+## Materials Purchased
+Item | Cost | Description | Link
+----------|-------|------------|---------
+Temperature PID | $25.99 | Main heat Controller w/ SSR and Thermocouple | [Amazon](https://www.amazon.com/CGELE-Temperature-Controller-180-240V-Thermocouple/dp/B08ZYHFBYW/ref=pd_lpo_sccl_1/135-9036734-3566626?pd_rd_w=FmQyb&content-id=amzn1.sym.4c8c52db-06f8-4e42-8e56-912796f2ea6c&pf_rd_p=4c8c52db-06f8-4e42-8e56-912796f2ea6c&pf_rd_r=G0TDSBF83Z1F9N14AS4E&pd_rd_wg=8Z5EV&pd_rd_r=899dca1b-00e0-472d-a40a-bd9c4a2d4df0&pd_rd_i=B08ZYHFBYW&th=1)
+Auger Bit | $15.06 |  | [Amazon](https://www.amazon.com/Irwin-Tools-304300-WeldTec-Auger/dp/B002WJTV0W/ref=sr_1_4?dib=eyJ2IjoiMSJ9.979zp34GToc95TVONOtJaYJBkBhZeKyHxx3VAxj6BR_80iGv8v78LbRla9Ra5LgjQfq3oL8mK2NgILXQBfZuYCT4wVTw4b_1xcb69Fjz-QRNivQUp0vF3AT99XzI-ATNMBzRrFvDm2mx5ujuuM5pLqM4WxbrppR0AQ0VcBN_C5MJ-G-4vNjnlxMmRBKws1C9_T5v4NgJ9lZn7VKglovTvdbtybm8slsq5ze8Lhi_CZsFBpZ91sdB0zvyFSyNN0EcIyMZ8EhkjPFseAQ55VMvQ7gXFT4yCrHu0ipAFQTpgu0.NXpENdEIoxpVSXqcc-kJp3I2-LUs_IIWskJGCwrCftQ&dib_tag=se&keywords=3%2F4%2Bauger%2Bbits%2Bfor%2Bwood&qid=1726077346&sr=8-4&th=1)
+Threaded Pipe 3/4in x 18in | $15.96 | Extruder Barrel (Cut to 13 inches long) | [Home Depot](https://www.homedepot.com/p/VPC-3-4-in-x-18-in-Black-Steel-Schedule-40-Cut-Pipe-21-707518/304751767)
+3/4in Pipe Cap | $3.26 | Cap for Barrel| [Home Depot](https://www.homedepot.com/p/Southland-3-4-in-Black-Malleable-Iron-FIP-Cap-Fitting-521-404HN/202283714)
+Band Heater  | $8.99 |  Heater for Extruder Barrel | [Amazon](https://www.amazon.com/Injected-Heating-Element-Heater-35x35mm/dp/B075WNXLTY/ref=sr_1_10?crid=XQXFQSBSG9Q6&dib=eyJ2IjoiMSJ9.moz_hIqKLOePHZ2vGN9Uy07kutjQdFjNGEwRAm1guMjtupd7ttRb66DYQcijqT0jAFugEmDxz1z-3Wtik_1p-bhnIL1YfYRaExuJadrhBo4uwFFsgiUGdYZIjCLkUMch8_OIA7nMNrUW_-3CRjwq6jHO6fVDqNtzBgwc1dSEn1Ge7yQuINRJBcD4zTxM_eNqny5cUf5vUE96WFEoyAMWOglKQts0UYxgdLuCrY6rxfrYxpUKy4mjVneYy2IXrWLPnRu2UWQcBnUYeFqQ9WaAk3Qp7Mb4lUatZc6j62ZkrYQ.GdmwgFCeDyYh_gRyiuL1k14qzUaZCbrGTVRvzP-6vwE&dib_tag=se&keywords=band+heater+30mm&qid=1725906121&sprefix=band+heater+30mm%2Caps%2C56&sr=8-10)
+Power Cord | $6.99 | Power for Heater | [Amazon](https://www.amazon.com/LISTED-Power-Pigtail-Replacement-120VAC/dp/B07SMXCT7D/ref=sr_1_7?crid=1SPVE0VML3PZ&dib=eyJ2IjoiMSJ9.4FTWzxH1oLIAC_L5CtmjZxc6s_VhCyf6YafB16Jz0209qKGPPYEsAaIxVCydRbg5AVASpkfUsHJNn463o4S7jDkZmeZG0UAZiR-3EPUzg7iBFGES0-8ZKnV7xNI9GQ6DYE5Qa_hekXoj5PhZrL3cVlQGlNAyMbTJR_gjVP8TOz7KMCVHisoczCdu8nab23JgwMRJdn7g6Z_VzmyPa6fCZgBcKHoEDxlvVR7SkTdN8fHGdwmOzvm5kEPw0dAbNlFudntHScIhzsu0q3Bggv_PV8yIKEAnzayrbp93mro0gA8.zmCflyvyI-paDdcIJjub0LRTqWyPqwkidGiXNWGRv_Y&dib_tag=se&keywords=appliance+power+cord+2+prong&qid=1759324991&sprefix=appliance+power+cord%2Caps%2C405&sr=8-7)
+WPM3001 Windshield Wiper Motor | $35.95 | Drive motor | [Amazon](https://www.amazon.com/Windshield-Wiper-Chrysler-Plymouth-Caravan1996-2000/dp/B00VVFH0RE)
+Rocker Switch w/ Cover | $11.99 | Used in Heating System | [Amazon](https://www.amazon.com/BOJACK-Rocker-Toggle-Switch-Automotive/dp/B0B28Z7YKG/ref=sr_1_5?crid=36IW6DY6D9BBH&dib=eyJ2IjoiMSJ9.aUVmtAgEGImvTU8qjH357e9gd0kJtz-vI5bE5nwGm2CiY9svNzkgM1WCZDWRg5mEWaoAOSw_LZNgqmLOnoj0C9Py2WgcYrltflbywPwTtTMqmcYa8ymc2lNo9crlZrK30lb45HRXtryl2qUhcgohkA.QoD79n9fXLjwrx0yZNUabzMyiy8qG5qOU8A4Iucqup4&dib_tag=se&keywords=bojack%2Brocker%2Bswitch&qid=1759325277&sprefix=bojack%2Brocker%2Bswitch%2Cspecialty-aps%2C100&sr=8-5&srs=20658268011&th=1)
+Plywood 1ft x 2ft | $8.98 | Base for System | [Home Depot](https://www.homedepot.com/p/ProWood-1-2-in-x-12-in-x-24-in-Birch-Plywood-Project-Panel-420507/313763533)
