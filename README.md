@@ -10,4 +10,5 @@ One Third of Material used in 3D Printing is Wasted
 We want to create a machine to recycle this waste back into usable filament on a budget that most schools and individuals can afford
 
 ## Current Status
-We are still working on developing first prototype for testing
+- Developing first prototype for testing
+- Documentation
