@@ -1,12 +1,11 @@
 ## Manufacturing Files List
 
->[!TIP]
->All *.f3d* files have parametric screw holes to accommodate different sizes
-
 File Name | Type | Description | Manufacturing
 ----------|-------|------------|---------
-MC ES Coupler TII | f3d | Motor-Auger coupler | CNC Milling
-Box Gen. 2 | SVG | Electronics Box | Laser Cut
-EcoSpool Bracket | STL | For motor mounting board (Only if using wood mounting board) | 3d Print
-Motor Holder | STL | Secondary brace for motor mounting | 3d Print
-Motor Mount Screws | STL | Mount motor to board | 3d Print/Lathe
+MC ES Coupler | f3d | Motor-Auger coupler | CNC Milling
+ES Coupler | STL | Model of fully completed coupler | 3d Print
+ES E-Box | SVG | Electronics Box | Laser Cut
+ES Bracket | STL | For motor mounting board (Only if using wood mounting board) | 3d Print
+ES Motor Holder | STL | Secondary brace for motor mounting | 3d Print
+ES Motor Mount Screws | STL | Mount motor to board | 3d Print/Lathe
+Extruder Holder | Folder | For mounting extruder barrel to base board | 3d Print
