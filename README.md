@@ -3,12 +3,18 @@
  >[!CAUTION]
  >Building and Operating this Machine Could Result in Serious Injury
 
-### __Did You Know?__
+<details>
+<summary>Did You Know?</summary>
 One Third of Material used in 3D Printing is Wasted
+</details>
 
-### __Our Goal__
+<details>
+<summary>Our Goal</summary>
 To create a machine to recycle this waste back into usable filament on a budget that most schools and individuals can afford
+</details>
 
-## Current Status
-- Developing first prototype for testing
-- Documentation
+<details>
+<summary>Project Status</summary>
+<ul><li>Developing first prototype for testing</li>
+<li>Documentation</li></ul>
+</details>
