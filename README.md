@@ -1,4 +1,4 @@
-# ARHS EcoSpool
+# EcoSpool @ ARHS
 
 <details>
 <summary>Did You Know?</summary>
